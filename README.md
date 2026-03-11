@@ -21,11 +21,6 @@ Currently working on Deep Learning & Computer Vision projects.
 **Model Accuracy Visualization:**  
 ![Carrot Accuracy](https://github.com/Priyadharsh05/carrot-quality-classification/blob/master/accuracy_plot.png)
 
-### 2️⃣ Dog vs Cat Classification *(coming soon)*  
-- Deep learning model for image classification of dogs and cats.  
-- Trained with CNN and validated accuracy plotted for performance.  
-- GitHub: [Link will be added after upload]
-  
 ## 📊 GitHub Stats
 ![Priyadharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyadharsh05&show_icons=true&theme=radical)
 
